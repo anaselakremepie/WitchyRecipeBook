@@ -1,0 +1,63 @@
+༺═──────────────────────────────────────────═༻
+     🕯️ SPELLBOOK RECIPE APP 🕯️
+༺═──────────────────────────────────────────═༻
+
+Welcome, traveler of taste and magic 🧙‍♀️✨
+
+Thank you for choosing to explore my witchy-themed recipe book app. 
+Whether you're crafting potions of love, baking enchanted treats, 
+or storing moonlit stews — this spellbook is your cozy cauldron of creativity.
+
+━━━━━━━━━━━━━━━━━━━━━━
+🌿  Created with magic by:
+           Anasela
+━━━━━━━━━━━━━━━━━━━━━━
+
+📜 What This App Does:
+- Organize your mystical recipes
+- Sort by spell type (Breakfast/Dinner/Sweets/Drinks)
+- Save your Essences/ingredients and Incantations/Steps
+- Enjoy a dark spellbook UI that feels like a page from the Grimoire
+
+━━━━━━━━━━━━━━━━━━━━━━
+💾 How to Use:
+1. Double-click the `Recipe_book.exe` to open your spellbook.
+2. Explore tabs for ingredients and instructions.
+3. Save your recipes and brew again anytime.
+
+━━━━━━━━━━━━━━━━━━━━━━
+🧹 Notes from the Witch:
+- This app is made with Python and dark forest code.
+- Works best with candles lit and background lo-fi.
+- If the app doesn't open, check if your system blocked the file 
+(right-click > Properties > Unblock, if needed).
+
+━━━━━━━━━━━━━━━━━━━━━━
+🔮 Blessings & Thanks:
+You didn’t just download an app—you unlocked a spell. 
+Thank you for supporting indie magic. 
+May your kitchen be ever warm, your spells true, and your spirit full.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+✨ Connect with me on Twitter:
+https://twitter.com/anaselakremepie
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+  - Anasela 🕯️
+
+
+
+༺═──────────────────────────────────────────═༻
+🌙 Whispered Secret:
+If your herbs ever turn bitter or lifeless — don’t toss them.
+
+Old hedge witches would “wake the leaves” by briefly placing 
+dried herbs in a cast iron pan and letting them kiss the 
+flame for three heartbeats. The aroma would bloom, and their 
+magic would return, sharp and alive. It’s said this ritual 
+stirs not just flavor, but memory.
+
+Try it once... see what awakens.
+༺═──────────────────────────────────────────═༻
