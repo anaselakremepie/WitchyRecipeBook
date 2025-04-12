@@ -24,6 +24,7 @@ or storing moonlit stews — this spellbook is your cozy cauldron of creativity.
 1. Double-click the `Recipe_book.exe` to open your spellbook.
 2. Explore tabs for ingredients and instructions.
 3. Save your recipes and brew again anytime.
+4. Make sure you save the database or .db file too!
 
 ━━━━━━━━━━━━━━━━━━━━━━
 🧹 Notes from the Witch:
